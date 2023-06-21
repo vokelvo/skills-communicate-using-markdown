@@ -6,3 +6,6 @@
 
 
 ![Image of Yogitocat](https://octodex.github.com/yogitocat/)
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
