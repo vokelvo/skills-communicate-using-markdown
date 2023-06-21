@@ -3,3 +3,6 @@
 ## and they are `<h2>`are nice
 
 ###### plus very `<h6>` cool, cats
+
+
+![Image of Yogitocat](https://octodex.github.com/yogitocat/)
