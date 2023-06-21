@@ -9,3 +9,7 @@
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+- [ ] My dream
+- [x] Is to fly
+- [ ] Over the airport
